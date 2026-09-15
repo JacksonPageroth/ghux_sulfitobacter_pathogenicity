@@ -1,0 +1,2 @@
+# Ignore unprocessed chlorophyll netcdf file due to size constraints
+data/chlorophyll/cmems_mod_glo_bgc_my_0.25deg_P1M-m_1782417984886.nc
